@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "client.h": "c",
+        "config.h": "c",
+        "log.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "readline.h": "c"
+    }
+}
